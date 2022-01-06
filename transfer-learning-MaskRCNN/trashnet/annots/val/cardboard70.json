@@ -1,0 +1,104 @@
+{
+  "dataset": "Trashnet",
+  "image": {
+    "width": 4032,
+    "height": 3024,
+    "original_filename": "cardboard70.jpg",
+    "filename": "cardboard70.jpg",
+    "url": "https://darwin.v7labs.com/api/images/243164042/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/243164042/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=386745&image=1038"
+  },
+  "annotations": [
+    {
+      "bounding_box": {
+        "h": 3022.0,
+        "w": 4030.0,
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "cardboard",
+      "polygon": {
+        "path": [
+          {
+            "x": 0.0,
+            "y": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 3022.0
+          },
+          {
+            "x": 2730.0,
+            "y": 3022.0
+          },
+          {
+            "x": 2730.0,
+            "y": 3020.0
+          },
+          {
+            "x": 2731.0,
+            "y": 3019.0
+          },
+          {
+            "x": 2738.0,
+            "y": 3019.0
+          },
+          {
+            "x": 2739.0,
+            "y": 3020.0
+          },
+          {
+            "x": 2739.0,
+            "y": 3022.0
+          },
+          {
+            "x": 4026.0,
+            "y": 3022.0
+          },
+          {
+            "x": 4026.0,
+            "y": 3020.0
+          },
+          {
+            "x": 4027.0,
+            "y": 3019.0
+          },
+          {
+            "x": 4030.0,
+            "y": 3019.0
+          },
+          {
+            "x": 4030.0,
+            "y": 530.0
+          },
+          {
+            "x": 4027.0,
+            "y": 530.0
+          },
+          {
+            "x": 4026.0,
+            "y": 529.0
+          },
+          {
+            "x": 4026.0,
+            "y": 451.0
+          },
+          {
+            "x": 4027.0,
+            "y": 450.0
+          },
+          {
+            "x": 4030.0,
+            "y": 450.0
+          },
+          {
+            "x": 4030.0,
+            "y": 0.0
+          }
+        ]
+      }
+    }
+  ]
+}

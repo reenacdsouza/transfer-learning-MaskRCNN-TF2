@@ -1,0 +1,80 @@
+{
+  "dataset": "Trashnet",
+  "image": {
+    "width": 4032,
+    "height": 3024,
+    "original_filename": "trash70.jpg",
+    "filename": "trash70.jpg",
+    "url": "https://darwin.v7labs.com/api/images/243164448/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/243164448/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=386745&image=1444"
+  },
+  "annotations": [
+    {
+      "bounding_box": {
+        "h": 3022.0,
+        "w": 4030.0,
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "trash",
+      "polygon": {
+        "path": [
+          {
+            "x": 0.0,
+            "y": 4.0
+          },
+          {
+            "x": 0.0,
+            "y": 325.0
+          },
+          {
+            "x": 4.0,
+            "y": 325.0
+          },
+          {
+            "x": 5.0,
+            "y": 326.0
+          },
+          {
+            "x": 5.0,
+            "y": 450.0
+          },
+          {
+            "x": 4.0,
+            "y": 451.0
+          },
+          {
+            "x": 0.0,
+            "y": 451.0
+          },
+          {
+            "x": 0.0,
+            "y": 3022.0
+          },
+          {
+            "x": 4030.0,
+            "y": 3022.0
+          },
+          {
+            "x": 4030.0,
+            "y": 0.0
+          },
+          {
+            "x": 5.0,
+            "y": 0.0
+          },
+          {
+            "x": 5.0,
+            "y": 3.0
+          },
+          {
+            "x": 4.0,
+            "y": 4.0
+          }
+        ]
+      }
+    }
+  ]
+}
