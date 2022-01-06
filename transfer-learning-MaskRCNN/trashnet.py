@@ -62,7 +62,7 @@ import imgaug
 
 # Root directory of the project
 ROOT_DIR = os.path.abspath("../")
-Mask_RCNN = os.path.join(ROOT_DIR, "transfer-learning-MaskRCNN-TF2/MaskRCNN-TF2")
+Mask_RCNN = os.path.join(ROOT_DIR, "MaskRCNN-TF2")
 
 # Import Mask RCNN
 sys.path.append(Mask_RCNN)  # To find local version of the library
