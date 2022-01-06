@@ -1,0 +1,56 @@
+{
+  "dataset": "Trashnet",
+  "image": {
+    "width": 3024,
+    "height": 4032,
+    "original_filename": "cardboard357.jpg",
+    "filename": "cardboard357.jpg",
+    "url": "https://darwin.v7labs.com/api/images/243164113/original",
+    "thumbnail_url": "https://darwin.v7labs.com/api/images/243164113/thumbnail",
+    "path": "/",
+    "workview_url": "https://darwin.v7labs.com/workview?dataset=386745&image=1109"
+  },
+  "annotations": [
+    {
+      "bounding_box": {
+        "h": 4030.0,
+        "w": 3022.0,
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "cardboard",
+      "polygon": {
+        "path": [
+          {
+            "x": 0.0,
+            "y": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 4030.0
+          },
+          {
+            "x": 3019.0,
+            "y": 4030.0
+          },
+          {
+            "x": 3019.0,
+            "y": 4027.0
+          },
+          {
+            "x": 3020.0,
+            "y": 4026.0
+          },
+          {
+            "x": 3022.0,
+            "y": 4026.0
+          },
+          {
+            "x": 3022.0,
+            "y": 0.0
+          }
+        ]
+      }
+    }
+  ]
+}
